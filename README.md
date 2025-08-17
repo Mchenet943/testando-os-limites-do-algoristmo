@@ -154,13 +154,11 @@ function contaFrequencias(palavras) {
     "todavia",
     "inclusive",
     "diante",
-    "sobre",
-    "quanto",
-    "apenas",
+    "sobre"    "apenas",
     "desde",
     "uma vez",
     "segundo",
     "junto"
-]);
+
    
 
